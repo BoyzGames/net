@@ -3,169 +3,30 @@
         "server": 1,
         "cookies": [
             {
-                "url": "https://www.netflix.com/",
+                "domain": ".netflix.com",
+                "expirationDate": 1759790205.381896,
+                "hostOnly": false,
+                "httpOnly": true,
                 "name": "SecureNetflixId",
-                "value": "v%3D3%26mac%3DAQEAEQABABT57QYZbY5GjuzYU6RFw0xTVLcZ_WeGmW8.%26dt%3D1728252608468",
-                "expirationDate": 9999999999
+                "path": "/",
+                "sameSite": "strict",
+                "secure": true,
+                "session": false,
+                "storeId": null,
+                "value": "v%3D3%26mac%3DAQEAEQABABSOsV3K4-1e4jbaBV0zlzdxX6SZH2j6Vyg.%26dt%3D1728254420319"
             },
             {
-                "url": "https://www.netflix.com/",
+                "domain": ".netflix.com",
+                "expirationDate": 1759790205.382044,
+                "hostOnly": false,
+                "httpOnly": true,
                 "name": "NetflixId",
-                "value": "v%3D3%26ct%3DBgjHlOvcAxL5AhmpLMH0Vpw6nOcvfmwMxCCjtyKjfNj3x4mftQTy0oFPhUx110nvrmK80Yk1T7gTV0kdnoY0ZxkppBpFa7yLwHIho84l_47Vg85s7Af0yhzAlMrdfObeXCWvZ8WVomJiMzWYiAotsgfljJB73TLGmnTDJ8KMe7zgitURR0wg0hTcfHYKdfs9p4niOkLBu9vLGAGefh21VpcEnZ9jToL3iF6Vef9cfFtOl4sfyZD9u21IA8fdSLTBFxJiF17pyXj0eNgoL6Ezxpdeq2CSBacVHuOKInrL2V3eaRioddCo1skBijgTz2PUUp1-1Iyf9GJi450uMmQEMc8VEBN3jMwMJYfTmA6RJR5k-ruFXVeRdPuJ_rF3c4_MeYza1Sin0LpNZjLcRuTP8Ep8ZzFBXcJ2r_bB3uvY4PBZsBdjfhV47rE_anJg3_KUMkyjT9LHvk6MSn2pl9WNNjpD8o9MtnCDPA0iFh-2ytyh_yNxSkEIUK_RkFEhkiJE4lBnGAYiDgoMwsa4gNHpYJvQKc99%26ch%3DAQEAEAABABRf4LQQ0fUitVQw60FjwVj5BMWlmazxcfs.",
-                "expirationDate": 9999999999
-            }
-        ]
-    },
-    {
-        "server": 2,
-        "cookies": [
-            {
-                "url": "https://www.netflix.com/",
-                "name": "SecureNetflixId",
-                "value": "v%3D3%26mac%3DAQEAEQABABR1ZCPKGM5xC-1WJZmWOICqUDPx7F-Dd5s.%26dt%3D1728252704766",
-                "expirationDate": 1728252704
-            },
-            {
-                "url": "https://www.netflix.com/",
-                "name": "NetflixId",
-                "value": "ct%3DBgjHlOvcAxKcA3NwmwgDv9DkhwJo2cfQ_g2roOs80woruxwHu0RYw4gpuVT5-Wj_Q-EtKCPGm3vuWw5fLmtoa92LN9bkKnrWFVrhQl8kEe9NPgCjvTzT6sNtEeo_S2tb7sqvNCsGe5XL0SWicafZiNrU8N3AohjuIkQO6AQhMVNSgFRyXs0xv0z3QH7azVHYOxBKAJ1QVoHEBtVFZ_ZlZ4rIc46Hzu1jTeX_1IGxMxlx2a_HTqAVYUbEqFca4iRzkPTeOq36K3Cddeply1cyFcV5C4PNXiyKXLwEdqWTLsn1y4cvXs2bN_ZDZTQDTis6RzPcBZPEPe36BRqdiAvGBFie6F81sHC6UQgett7UiyR8eKcBSThjXZxX7QUGkKmT0tPrIaUbai3--rP5l_RKH_HBnyIFrLbuAWdzacB3DW_3s542sQF-TWpzg4vOC_voo2RGLj-cnNrOKn4Nfx0Ph_VHkz2q5HPEu3Rm_4fi8y4bjCibLoDveyNoUtNpwZpTp1CN8Ps-BQQgMY1m_vNkjKLESVWvXv3aHcnpHLYwJQkmK50j4HYYBiIOCgwvQDkwpiIRCtKWq1o.%26ch%3DAQEAEAABABTq2ICtLXuk9NSnCwKdjjCPpZlRZPaREic.%26v%3D3",
-                "expirationDate": 1728252704
-            }
-        ]
-    },
-    {
-        "server": 3,
-        "cookies": [
-            {
-                "url": "https://www.netflix.com/",
-                "name": "SecureNetflixId",
-                "value": "v%3D3%26mac%3DAQEAEQABABS4iSIAdFdvDanstb7DlOT8FvrEEIJbPCU.%26dt%3D1728252744852",
-                "expirationDate": 1728252744
-            },
-            {
-                "url": "https://www.netflix.com/",
-                "name": "NetflixId",
-                "value": "v%3D3%26ct%3DBgjHlOvcAxKMA-tif5sSgiq9R-ur0QAGIVw4zYXfsgoY6NtS9i1d0c7ZUg10IXhVu47uEpMAhCVr5WB0da_-FY04-MfUyy-lfw24xlI2DNJV1D5Pj552WSIEdFCeE0BScJLDIT8RNcr4Ep315NA6VzjVw07_tg4IZXIDRS2keiVBoYa93U-VlT0FJ7OGUbAoCO76x9ndaV7aIFdK38ZsyS0kzdd0o_FeOU03_1VS966uOmjQAgfvmSi1S4RzkJrAjUsNOlBtdbVxSMZDAcUVId7xadOy3eV8k9hIdhMgGpb7EppXGi4wi2o-TNsSLiXX2sepuzgrWS7w_slWIvVDo5Dz7vBcyKd1SekXLm_vARoRcn1QfHjrpcP36lOhZK3J579xYoeSWeyRfPhkQ_j8vz0DfpFMa9uMRV0MWYmHskenMczEELzjWspnCps-Wgs2-4hVzZ5t7S9JPjyL2_0wI04u6QmqyAxHrHFS0FPAMzIq9VOOqTcQ2dzHhUTnlvrSmUsjUC5cENztWWlmgix45_0XYlnWWRgGIg4KDIHsDptUcd1bEvwJ3A..%26ch%3DAQEAEAABABR6Ikt-Vgr7yhC04c_zqQVt_0Iq7j6qZW4.",
-                "expirationDate": 1728252744
-            }
-        ]
-    },
-    {
-        "server": 4,
-        "cookies": [
-            {
-                "url": "https://www.netflix.com/",
-                "name": "SecureNetflixId",
-                "value": "v%3D3%26mac%3DAQEAEQABABTTDU4f2iTkBdGhuVuN1WzLhd9WlpDNkaA.%26dt%3D1728252814504",
-                "expirationDate": 1728252814
-            },
-            {
-                "url": "https://www.netflix.com/",
-                "name": "NetflixId",
-                "value": "ct%3DBgjHlOvcAxKdA96odbjDrTeVCJ3-9FZIia94AT8B72F7HkGoAisiKMRicyTZ-TmMS1Jf4WLIOH10ntoj4eaV-crV4497_BMzrkSC4JIx2Zv9T_X_TMGxXTrYGtwVGwFAUnpVYqKQ6_Ru8TyLGN-cz8UP4DRJnLQ7tgXIwefox915d4aXiZVv7sf3KWdbbhfi1fGbwF-gc43kWcLAhuadqMbLHK_jI8rwZ9aWruujHjev-QZ6tYtJlVWx2a4Sj58wJizsnakwNR1pH0iD7gltfleoHWOKY_0K-OtsCK5YVjN6eGhER5cmjNDS-YKnVZStKxEl03uJdewgl-NcKfpewZci3qy3NvLfgLlfgk8fPxm3P4wUoT2xhCbmMXOQjEdjjdoX8HjLrj-kJJPtYq-EghB2OmBcHkW_nEAZqbc9it2hY1BQN4ltscgqYM9gEFhE3PpYRn5B83zR8_KSL2g2YmGlNMj3l4JWKwpZfWJcbBb-6SmNVQz7UNViqoEHmiCvWToGeYQfsRGKSukD2jwU7Ayf0dX0ipupHuUzy3sJU2r-DjlkygSbGAYiDgoMaDbs_krViKgAdZwN%26ch%3DAQEAEAABABQd0n96BeTmQdXMogknVKkVHyYlRLXOrhE.%26v%3D3",
-                "expirationDate": 1728252814
-            }
-        ]
-    },
-    {
-        "server": 5,
-        "cookies": [
-            {
-                "url": "https://www.netflix.com/",
-                "name": "SecureNetflixId",
-                "value": "v%3D3%26mac%3DAQEAEQABABSKNkqrD3akx16hciybwU0rzNVtOu62wqw.%26dt%3D1728252833154",
-                "expirationDate": 1728252833
-            },
-            {
-                "url": "https://www.netflix.com/",
-                "name": "NetflixId",
-                "value": "ct%3DBgjHlOvcAxKYA_XPelXHFNnmCaAyVZxMdxjz3xpNIuXRvpiDluIWfT0HKb-dGN7do8t5A3dQRHeiCemGDOULIFB-VTOTTxsWUq3PsVyRNy4TMLvUX1WfeyS7urxls1rzFzxzXfq6hxhXf70Gs6g54pUsGSdDdFsCdqmVP3d6A-AkJtb3bKJldoSUQcj3iZq4Q2Wap4ImJM9M3gF6WbAb86Kmrj0w0n7UwnESOw-X9WqIADkGF9fE066RYdsYlMZI9nDsM4U4KXaNsmAIht9RnDPLO3MAzNQV9RBxuDV1_phvVStWxlVouXRZ8Dji8wF9Lx3A_ojdCok9-sJDYFNpi75qar9bSEVwF-7eh_a61LCm4ijpJm3rk54MI-bZQFe438v_TaKfciicBy-NkGEe7QNS3B41MkdvmfKUsYCGR9hutSvfYrunGKSgMwysrwFJFQJGWVjyzEvJpgcDsbm4Jok9ueHNPY9d1aEMZL0qsa5MdyVZCqS0bAACke9kLiOQX91oqe55YAlEaPTW9WuFnrcfAK-0O-1zwZ2Dc_rvxGTTMhgGIg4KDEGV9bIfgjKybAtXdQ.%26ch%3DAQEAEAABABTYr5X_VKoYgHf5lU1oupw8bh254cbwsu4.%26v%3D3",
-                "expirationDate": 1728252833
-            }
-        ]
-    },
-    {
-        "server": 6,
-        "cookies": [
-            {
-                "url": "https://www.netflix.com/",
-                "name": "SecureNetflixId",
-                "value": "v%3D3%26mac%3DAQEAEQABABSrKMP9o1jSoejx7R9UClQwPKNe3_Chu7E.%26dt%3D1728252871961",
-                "expirationDate": 1728252871
-            },
-            {
-                "url": "https://www.netflix.com/",
-                "name": "NetflixId",
-                "value": "v%3D3%26ct%3DBgjHlOvcAxL4AnlA0FVAgCO6ddDIotY6MEG6uA9n00MacWYJFuFiLMJmncgumHqQvTFyYZDzgPRzcj16jlVh4PHtYQJRB__MIkK1gQv1jH0CjhF1Q2oLneYMT1HY2FncqHZVOqcgkoHEmNL3CL_kM2z7rfRvlJyksc3y7axJd6xcUXpQkHgQuOs36yCnW3Bl4PF8KK77OIgF0zaksK-C9IhyOBbzIbdIJTv0q8k3BUiH9O-fchXMsQ0k_Cc1GpcBek6epD06Ww8-VO1EknMKkQUY5i4qeRxsbA2eUiomJgh1lEtm4rGtNXXwWWHeCJgkB3n5uy65OO5PkiKP-ENnIkMW46lGwrvYa7nBMe91aTUthu4UjMoZi2br65EbH1gaOLUl_PCL8b3qVTTL9KdH__JM2UwLp6stGtpTLsdm1B7V9xWWiHoctox4VtAVDp7YkiMmi9naUYSdtlKa3aqHgm-juPp0VDXMlPJLmQ0jDIydv0HkOrXfqNLjDwH64rrbFbkYBiIOCgwXF3x4FMTOnCPJsPg.%26ch%3DAQEAEAABABRJwzH5bUoUJpP3zmYPmAxzMIWxxXT-3a4.",
-                "expirationDate": 1728252871
-            }
-        ]
-    },
-    {
-        "server": 7,
-        "cookies": [
-            {
-                "url": "https://www.netflix.com/",
-                "name": "SecureNetflixId",
-                "value": "v%3D3%26mac%3DAQEAEQABABS7piUXA_Dddd_N30SCDnCSVr0BE06jWik.%26dt%3D1728252897813",
-                "expirationDate": 1728252897
-            },
-            {
-                "url": "https://www.netflix.com/",
-                "name": "NetflixId",
-                "value": "ct%3DBgjHlOvcAxKdAz_mePmYrIXpbU5IL4gDr33pvujUBB0LNpO-MKWb2Om5WhwRKvPnd_F_XMmOAS-aA4gz-qIf08B56PAl9r6EeXSsLW9efQbUvwRellnJI8FmYfpcYJE1AW2H0wBO7L-BmaJtOe4OEUsuZAdQRHWZzzUjG_HDAeU91fWZ5Jll-Te2BrlIV5ihufpXgpcGg0_kPmmww7xKFRRRLM0O6SPdXyGbKuoz03sjPK-W9cmGZipbey10nVAfizf90uv6WrnS5cqo1o0viE3DRTcE8-LZ93j7a2rZqgmWEJmkvg7b1Xb5KK9X3-2eH3CgXFjqj-CQAhcpBBKSrDyGmabooq8U6v7sgK85LNtZG0b_FkKvp4j3iV_qx6_YCrrMprz3D1phwJGnKP2R1yZHmB0q79t8-snLDx0oNpq707NtSTibiXRLxmUiUw1nGhtvTxyxglzy96Av2CZCOUcF-brsisErsqqjpc2E5-LFRQsNZtX8r65w6w8lT_lzfe9ssmB7kRaZQwzQ5f6Do3htwmaIvTWYYvpjGxckx8OpmrAlfv9sGAYiDgoMLuCMdSJ4WggMZLml%26ch%3DAQEAEAABABTUXD67sqPYmrBCEpJUc0_aOi1DJ6tOXrI.%26v%3D3",
-                "expirationDate": 1728252897
-            }
-        ]
-    },
-    {
-        "server": 8,
-        "cookies": [
-            {
-                "url": "https://www.netflix.com/",
-                "name": "SecureNetflixId",
-                "value": "v%3D3%26mac%3DAQEAEQABABRr7APPSeZqNFCWP-yK6Pt9yeK0tAsRm8M.%26dt%3D1728252921835",
-                "expirationDate": 1728252921
-            },
-            {
-                "url": "https://www.netflix.com/",
-                "name": "NetflixId",
-                "value": "ct%3DBgjHlOvcAxKZAybfMhO845-ytm1VLl7gnfNJ6Q1Yp6TIBgaJ_VNZW3kteL4st_ucS-dg5dt6NmOJB1hc0vghqF1vMAdBMTw3kucfLXiC3x8pM4griEy07dIKcCI2dXJS8xlBuSK0SpIsq1QfeDj_5QaD1fl8j97nop82WlQDZiJ0f5eLyHHOnSFc5zbM2E23aencpSmrnOPtPQeWFJ4eO8brWWGzPLEXYsU27r75EpjmbFbchkrCgwPQIU06ICn6AeQvTBnlofTINoB2bSW3kZmdr9ikpRXC4N9KK9mq--GXHF7kP0a919efuvfywGOYam6HZVU_CvsFghYypjasPf9mo3ihpEl4Tqm_yFJUgf2gtRStfqQa6DZcZ48R9AqyodBfAhTjIKf2FdmlTgEPNn2AWSGrSSFQTFH7aDgTttzu1cekVnEZQITBDoR7IGeet_J7unBvT-r7DHU6pc8--Vgi76XznAm3O9KpjL1Lhp6HEJxJsrjC6_mCvAv8ApiNR1WttTmaGKC2u1Mp0VIiNGKwOO15mXG9yQIbO-vlthI5qzQYBiIOCgxp9zf2hgp_QB1VEuo.%26ch%3DAQEAEAABABR4SwOx0PUlwrya98kbt1Zc4DA0MID2RBA.%26v%3D3",
-                "expirationDate": 1728252921
-            }
-        ]
-    },
-    {
-        "server": 9,
-        "cookies": [
-            {
-                "url": "https://www.netflix.com/",
-                "name": "SecureNetflixId",
-                "value": "v%3D3%26mac%3DAQEAEQABABSN9XKjNFAD71lrBfVeDCUklsAnwl87-P4.%26dt%3D1728252949361",
-                "expirationDate": 1728252949
-            },
-            {
-                "url": "https://www.netflix.com/",
-                "name": "NetflixId",
-                "value": "v%3D3%26ct%3DBgjHlOvcAxLzAlo2cBF-QNYPpfzwc8NBwlzItEEsdCZTA7lyWsjikCRMvb6BUVdj6zYSO1Yfonyly_e3p58qJQPoX7uhv8dlR_iPOonOsXgkwGnQnkjguBINdb-cdZuxwcBZMLNVB0k9SxWvLiPtX1Jm_yKkin8cjHpjer8xGWpTP1BBcZMXdqohHww8hBKGleu1uDSdM5e2QmC_Qj6BsPxovHPQ4sCjLtZWhPnGKusce7qMioSAiV6XD3Auq_i3dcz85aAQBzVyz9WIkGwfkvBxhscbpGYxS2vLdb1Z73Ck67DKp3HOuRHRt7jx7dqgBhyU1abBNRVapI9acKWpjd4aM65Clr10Pj33doPKXuFeWCgY5D_DLPQRY1lB-JFT7fYm8SflgAOc2QdEKTA1B-38yMU14M_aUtCFYGjHAHP4aYCuy4skW1IEaKE0nG1yjb0LhZN0unEezLCNSWY1R03XtcZxx256s_P3HHMq3Ya6hJia-0S-6CeEcFN3GAYiDgoMbi_YB1es0-ZU-6fY%26ch%3DAQEAEAABABTX_tUXnmr30ry6rnreWN6hMVwdxkK7iTc.",
-                "expirationDate": 1728252949
-            }
-        ]
-    },
-    {
-        "server": 10,
-        "cookies": [
-            {
-                "url": "https://www.netflix.com/",
-                "name": "SecureNetflixId",
-                "value": "v%3D3%26mac%3DAQEAEQABABTbil4HM-AbI-UlHDHyXeE93eppXGqBZ7w.%26dt%3D1728252967801",
-                "expirationDate": 1728252967
-            },
-            {
-                "url": "https://www.netflix.com/",
-                "name": "NetflixId",
-                "value": "ct%3DBgjHlOvcAxKbA4JkHRUNGEGlIxjh7cvGi4wohR-EeNiQn9sZBKRErFk2gkc7wNdLuQCJvXQvGxTiT__m_SOBmKSTR2TwIZpAu7QEsOed2c5xFqQVzQIGhgR4aPIKtAUWjVpaY1rByc428qArtPB-l0ohWbrB84G-jkxzS7CsJO0KjfkHFPrATEbce37Nc5JkbSzEr-bgvUVQ7yEDdqPpAdWB052ejZRCQk0_XwHj395abO7JHVRFX4I2qpT15dY5E_Y-AAADNH31pjrJgYTsrylYcacqhFSgAxT1KUSW9kMP0PXtCX7BB4k9Nt52bTGQxqwIZ-b8Wr_RuSSDM--lIRkie47LPl9EoJmCaHQ0CijA8rij8RWpK7pLDfqa-NbwDJLW84J_vrxLB0WiUpMGbquLTVE08URr9QoH5lD_A5EfhqQV08WbFFSSmNn_UQVv99MRtt7n5bORnAoPk_6PgAKiRmrUirJrAW0fqmy7vaq8hUa_KK62IUdvLvGzMVjLcId2wIWGLyjBDZ1l_KUuReCB0IB45rXutrRSUCUGh2tzysIrnRgGIg4KDKpDa_l9nzpeHDK2VQ..%26ch%3DAQEAEAABABTQhZ7GV4FFJjZN6uaJn6QfZ_W9SHHftNM.%26v%3D3",
-                "expirationDate": 1728252967
+                "path": "/",
+                "sameSite": "lax",
+                "secure": true,
+                "session": false,
+                "storeId": null,
+                "value": "v%3D3%26ct%3DBgjHlOvcAxL5AvOo1KiWCV0CiPmigq8AtyeKVJJiEAb__y4X20kJ8pH8J_BZyttd_Gw3aI66rbs9lEhBn6j_VgtcS3ZjGCR7ZVMhRrnTLTfVbMla7rHBpB3xcnwqJix4vO5TqoKiw7JFGGqJTSrSewsXeeQrfEkmJ3JIk3fUJexgNy8xpedjj86WmxTplwcOBl7YgNCQXqtPIY_sevjrs8ZvMB3RL71lrdq04JjSLya34uNZfAx0pZsvrwliHijtpNnc4aMZf2m-Xz7X4F84zI9r2aS9vV3PHnzNt6_CqVYgTCaujWjnPLFabz497V9Ms4eOxp8Ki3KW1ZVVPmyqy4eszDoI_W5lvXXJgz9oOj9R7Ex0NKm9DiNjgMksWTgBOQWnaLeHK-xsg4b5UiaKapxBJO-gp1otufGSwTEJopAuPRmTNCYOAIiUkzFn9Fl4Z8RwEUT2VFZIXGj6kpPudf8NjXzoKW0TfPkwyDmrmkMrJ1_XJXWS1hE5dDb2tPPwX7bdGAYiDgoMtZ0DIyFXfi9U9qUb%26ch%3DAQEAEAABABRf4LQQ0fUitVQw60FjwVj5BMWlmazxcfs."
             }
         ]
     }
