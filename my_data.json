@@ -3,30 +3,24 @@
         "server": 1,
         "cookies": [
             {
-                "domain": ".netflix.com",
-                "expirationDate": 1759790205.381896,
-                "hostOnly": false,
-                "httpOnly": true,
+                "url": "https://www.netflix.com/",
                 "name": "SecureNetflixId",
+                "value": "v%3D3%26mac%3DAQEAEQABABSOsV3K4-1e4jbaBV0zlzdxX6SZH2j6Vyg.%26dt%3D1728254420319",
+                "expirationDate": 1759790205.381896,
+                "httpOnly": true,
                 "path": "/",
                 "sameSite": "strict",
-                "secure": true,
-                "session": false,
-                "storeId": null,
-                "value": "v%3D3%26mac%3DAQEAEQABABSOsV3K4-1e4jbaBV0zlzdxX6SZH2j6Vyg.%26dt%3D1728254420319"
+                "secure": true
             },
             {
-                "domain": ".netflix.com",
-                "expirationDate": 1759790205.382044,
-                "hostOnly": false,
-                "httpOnly": true,
+                "url": "https://www.netflix.com/",
                 "name": "NetflixId",
+                "value": "v%3D3%26ct%3DBgjHlOvcAxL5AvOo1KiWCV0CiPmigq8AtyeKVJJiEAb__y4X20kJ8pH8J_BZyttd_Gw3aI66rbs9lEhBn6j_VgtcS3ZjGCR7ZVMhRrnTLTfVbMla7rHBpB3xcnwqJix4vO5TqoKiw7JFGGqJTSrSewsXeeQrfEkmJ3JIk3fUJexgNy8xpedjj86WmxTplwcOBl7YgNCQXqtPIY_sevjrs8ZvMB3RL71lrdq04JjSLya34uNZfAx0pZsvrwliHijtpNnc4aMZf2m-Xz7X4F84zI9r2aS9vV3PHnzNt6_CqVYgTCaujWjnPLFabz497V9Ms4eOxp8Ki3KW1ZVVPmyqy4eszDoI_W5lvXXJgz9oOj9R7Ex0NKm9DiNjgMksWTgBOQWnaLeHK-xsg4b5UiaKapxBJO-gp1otufGSwTEJopAuPRmTNCYOAIiUkzFn9Fl4Z8RwEUT2VFZIXGj6kpPudf8NjXzoKW0TfPkwyDmrmkMrJ1_XJXWS1hE5dDb2tPPwX7bdGAYiDgoMtZ0DIyFXfi9U9qUb%26ch%3DAQEAEAABABRf4LQQ0fUitVQw60FjwVj5BMWlmazxcfs.",
+                "expirationDate": 1759790205.382044,
+                "httpOnly": true,
                 "path": "/",
                 "sameSite": "lax",
-                "secure": true,
-                "session": false,
-                "storeId": null,
-                "value": "v%3D3%26ct%3DBgjHlOvcAxL5AvOo1KiWCV0CiPmigq8AtyeKVJJiEAb__y4X20kJ8pH8J_BZyttd_Gw3aI66rbs9lEhBn6j_VgtcS3ZjGCR7ZVMhRrnTLTfVbMla7rHBpB3xcnwqJix4vO5TqoKiw7JFGGqJTSrSewsXeeQrfEkmJ3JIk3fUJexgNy8xpedjj86WmxTplwcOBl7YgNCQXqtPIY_sevjrs8ZvMB3RL71lrdq04JjSLya34uNZfAx0pZsvrwliHijtpNnc4aMZf2m-Xz7X4F84zI9r2aS9vV3PHnzNt6_CqVYgTCaujWjnPLFabz497V9Ms4eOxp8Ki3KW1ZVVPmyqy4eszDoI_W5lvXXJgz9oOj9R7Ex0NKm9DiNjgMksWTgBOQWnaLeHK-xsg4b5UiaKapxBJO-gp1otufGSwTEJopAuPRmTNCYOAIiUkzFn9Fl4Z8RwEUT2VFZIXGj6kpPudf8NjXzoKW0TfPkwyDmrmkMrJ1_XJXWS1hE5dDb2tPPwX7bdGAYiDgoMtZ0DIyFXfi9U9qUb%26ch%3DAQEAEAABABRf4LQQ0fUitVQw60FjwVj5BMWlmazxcfs."
+                "secure": true
             }
         ]
     }
